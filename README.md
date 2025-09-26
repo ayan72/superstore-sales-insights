@@ -1,7 +1,7 @@
 # Superstore — Sales Analysis
 
 ## About
-Superstore is a near-realistic synthetic sales dataset (~10,000 records). This project demonstrates end-to-end analysis: data cleaning, exploratory data analysis, KPI calculation, and visual storytelling to surface trends and business insights. Data cleaning and analysis were performed in Python (`pandas`, `numpy`), with `pandasql` used for SQL-style queries when helpful. Dashboards and visualizations were created in Tableau to support stakeholder-facing insights.
+This project uses the Superstore dataset, a synthetic dataset modeled on real-world retail sales, consisting of about 10,000 records. This project demonstrates end-to-end analysis: data cleaning, exploratory data analysis, KPI calculation, and visual storytelling to surface trends and business insights. Data cleaning and analysis were performed in Python (`pandas`, `numpy`), with `pandasql` used for SQL-style queries when helpful. Dashboards and visualizations were created in Tableau to support stakeholder-facing insights.
 
 ## Technologies
 - Python (pandas, numpy)  
