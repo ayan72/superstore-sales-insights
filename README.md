@@ -22,3 +22,4 @@ Superstore is a near-realistic synthetic sales dataset (~10,000 records). This p
 ## Tableau Dashboard
 **Interactive dashboard (Tableau Public):** [View on Tableau Public](https://public.tableau.com/app/profile/ayan.abbas/viz/SuperStoreSalesDashboard_17557743982790/Dashboard1)
 
+<img width="2398" height="1598" alt="image" src="https://github.com/user-attachments/assets/fb358d89-73bf-4c13-813e-dde5f9d403ea" />
