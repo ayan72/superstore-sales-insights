@@ -13,7 +13,7 @@ Superstore is a near-realistic synthetic sales dataset (~10,000 records). This p
 - Cleaned and validated dataset for reliable reporting.  
 - KPI definitions and calculations to monitor sales performance.  
 - Interactive Tableau dashboards highlighting regional, segment, and temporal trends.  
-- Written 15 SQL queries answering business questions and analysis.
+- Written 15 SQL queries answering business questions.
 
 ## Highlights / Findings
 - California contributed the highest sales across years, with total revenue above $700K in 2018.  
