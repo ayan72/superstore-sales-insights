@@ -19,5 +19,6 @@ Superstore is a near-realistic synthetic sales dataset (~10,000 records). This p
 - California contributed the highest sales across years, with total revenue above $700K in 2018.  
 - November–December account for more than 50% of annual sales in the Consumer segment, indicating strong seasonality and potential windows for introducing new product categories.
 
-
+## Tableau Dashboard
+**Interactive dashboard (Tableau Public):** [View on Tableau Public](https://public.tableau.com/app/profile/ayan.abbas/viz/SuperStoreSalesDashboard_17557743982790/Dashboard1)
 
